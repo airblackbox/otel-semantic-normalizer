@@ -1,5 +1,10 @@
 # genai-semantic-normalizer
 
+[![CI](https://github.com/airblackbox/otel-semantic-normalizer/actions/workflows/ci.yml/badge.svg)](https://github.com/airblackbox/otel-semantic-normalizer/actions/workflows/ci.yml)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/airblackbox/otel-semantic-normalizer/blob/main/LICENSE)
+[![Go](https://img.shields.io/badge/Go-1.22+-00ADD8.svg?logo=go&logoColor=white)](https://golang.org)
+
+
 An OpenTelemetry Collector processor that normalizes vendor-specific LLM attributes to the standard `gen_ai.*` semantic conventions.
 
 ## What It Does
