@@ -1,4 +1,4 @@
-module github.com/nostalgicskinco/genai-semantic-normalizer
+module github.com/airblackbox/otel-semantic-normalizer
 
 go 1.22
 
